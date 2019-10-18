@@ -1,0 +1,22 @@
+[
+	{
+	"marka":"Bmw",
+	"model":"X6",
+	"maxSpeed":"256",
+	"price":"123000"},
+	{
+	"marka":"mercedez-benz",
+	"model":"gelendwagen",
+	"maxSpeed":"356",
+	"price":"320000"},
+	{
+	"marka":"geely",
+	"model":"badCar",
+	"maxSpeed":"123",
+	"price":"16000"},
+	{
+	"marka":"Lada",
+	"model":"Vesta",
+	"maxSpeed":"156",
+	"price":"23000"}
+]
